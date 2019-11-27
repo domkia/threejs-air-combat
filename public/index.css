@@ -1,0 +1,21 @@
+body{
+    background: #112233;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.title{
+    color: white;
+    font-size: 1rem;
+    text-align: center;
+}
+
+#canvas{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+canvas{
+    display: flex;
+    border: 2px solid navy;
+}
